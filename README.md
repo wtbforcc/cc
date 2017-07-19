@@ -1,2 +1,2 @@
 just for fun
-test key
+cc
